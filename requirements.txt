@@ -6,3 +6,5 @@ pypdf
 python-dotenv
 faiss-cpu
 tiktoken
+langchain-chroma 
+chromadb  
